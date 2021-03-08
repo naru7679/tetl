@@ -36,7 +36,7 @@ var EFFECT_ANIMATION = 2;	// エフェクト時のちかちかする回数
 // 色
 var BACK_COLOR = "#ddd";			// 背景色
 var GAMEOVER_COLOR = "#fff";			// ゲームオーバー時のブロックの色
-var BLOCK_COLOR = "#000";			// 操作ブロックの色
+var BLOCK_COLOR = "green";			// 操作ブロックの色
 var LOCK_COLOR = "#333";			// ロックしたブロックの色
 var WALL_COLOR = "#666";			// 壁の色
 var ERROR_COLOR = "#f00";			// エラーブロックの色
